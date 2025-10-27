@@ -42,7 +42,7 @@ const Highlights = () => {
         <HighlightCard title="Contact">
           <ul className="space-y-2">
             <li>Email: <a className="text-emerald-400 hover:underline" href="mailto:abhishek@example.com">abhishek@example.com</a></li>
-            <li>Phone: <a className="text-emerald-400 hover:underline" href="tel:+910000000000">+91 00000 00000</a></li>
+            <li>Phone: <a className="text-emerald-400 hover:underline" href="tel:+919076657084">+91 9076657084</a></li>
             <li>Location: India</li>
           </ul>
         </HighlightCard>

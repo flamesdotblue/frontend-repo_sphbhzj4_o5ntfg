@@ -42,7 +42,7 @@ const App = () => {
                 Email Me
               </a>
               <a
-                href="tel:+910000000000"
+                href="tel:+919076657084"
                 className="rounded-xl border border-white/15 bg-white/5 px-5 py-3 text-sm font-semibold text-white backdrop-blur-sm transition hover:bg-white/10"
               >
                 Call
